@@ -2,7 +2,7 @@
 - 👀 I am interested in software development, machine learning and creating innovative solutions. I also have a university degree in electrical engineering and automation.
 - 🌱 I’m currently learning new technologies and expanding my knowledge in computer science.
 - 💞️ I’m looking to collaborate on open-source projects that contribute to solving real-world problems and promote technological advancement.
-- 📫 You can contact me or visit my website at <a href="https://footpred.com/">https://footpred.com/</a>.
+- 📫 You can contact me or visit website at <a href="https://footpred.com/">https://footpred.com/</a>.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy hiking and exploring nature trails in my free time!
 - ⚡ Vibe coder!
