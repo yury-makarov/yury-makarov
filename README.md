@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yury-makarov. Welcome to my GitHub profile.
 - 👀  I'm interested in software development, machine learning, and creating innovative solutions in the iGaming industry. I have a university degree in electrical engineering and automation, and I specialize in building online casino platforms and sports betting websites.
-- 🌱 I’m currently learning new technologies and expanding my knowledge in computer science.
+- 🌱 'm currently learning new technologies and expanding my knowledge in web development, particularly focused on responsive design and user experience optimization for gambling platforms.
 - 💞️ I’m looking to collaborate on open-source projects that contribute to solving real-world problems and promote technological advancement.
 - 📫 Visit website at <a href="https://betlion-kenya.com/">https://betlion-kenya.com</a>.
 - 😄 Pronouns: He/Him
